@@ -1,6 +1,6 @@
 # EITHER FOR ABAP
 
-`EITHER FOR ABAP` is a design pattern used in ABAP programming to standardize the management of results and error messages. This pattern helps in handling operations that can either succeed with a result or fail with an error message.
+`EITHER FOR ABAP` is a design pattern used in ABAP programming to standardize the management of results and errors. This pattern helps in handling operations that can either succeed with a result or fail with an error, which can be of various types.
 
 ## License
 
